@@ -3,7 +3,7 @@ package douyinGo
 import (
 	"context"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type DiscoveryEntRankItemReq struct {

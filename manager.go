@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/zhangshuai/douyin-go/auth"
-	"github.com/zhangshuai/douyin-go/client"
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/auth"
+	"github.com/DOZZMN/douyin-go/client"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type Manager struct {

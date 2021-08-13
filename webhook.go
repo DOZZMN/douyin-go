@@ -5,7 +5,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type WebhookEvent struct {

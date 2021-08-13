@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/url"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type DataExternalItemBaseReq struct {

@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type ImageUploadReq struct {

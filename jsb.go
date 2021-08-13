@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"fmt"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 type JsTicketReq struct {

@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/DOZZMN/douyin-go/conf"
 )
 
 const (
